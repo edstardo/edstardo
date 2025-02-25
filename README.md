@@ -1,7 +1,7 @@
 ## Hi There 👋
 
 ### Software Engineer from the Philippines
-**Now:** Philppine Digital Asset Exchage ([PDAX Inc.](https://pdax.ph/)) <br />
+**Current:** Philippine Digital Asset Exchage ([PDAX Inc.](https://pdax.ph/)) <br />
 **Ex:** Advanced World Systems ([AWS Inc.](https://www.awsys-i.com/en/home.php))
 
 ### Links
