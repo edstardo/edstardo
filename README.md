@@ -1,11 +1,11 @@
 ## Hi There 👋
 
-# Software Engineer from the Philippines
-Now: Philppine Digital Asset Exchage ([PDAX Inc.](https://pdax.ph/))
-Ex: Advanced World Systems ([AWS Inc.](https://www.awsys-i.com/en/home.php))
+### Software Engineer from the Philippines
+**Now:** Philppine Digital Asset Exchage ([PDAX Inc.](https://pdax.ph/)) <br />
+**Ex:** Advanced World Systems ([AWS Inc.](https://www.awsys-i.com/en/home.php))
 
-# Links
-- [edstardo.dev](edstardo.dev)
+### Links
+- [edstardo.dev](https://edstardo.dev)
 - [LinkedIn](https://www.linkedin.com/in/edstardo/)
 - [Leecode](https://leetcode.com/edstardo)
 - [Hackerrank](https://www.hackerrank.com/edstardo)
