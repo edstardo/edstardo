@@ -1,4 +1,14 @@
-## Hi there 👋
+## Hi There 👋
+
+# Software Engineer from the Philippines
+Now: Philppine Digital Asset Exchage ([PDAX Inc.](https://pdax.ph/))
+Ex: Advanced World Systems ([AWS Inc.](https://www.awsys-i.com/en/home.php))
+
+# Links
+- [edstardo.dev](edstardo.dev)
+- [LinkedIn](https://www.linkedin.com/in/edstardo/)
+- [Leecode](https://leetcode.com/edstardo)
+- [Hackerrank](https://www.hackerrank.com/edstardo)
 
 <!--
 **edstardo/edstardo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
