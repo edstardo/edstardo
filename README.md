@@ -10,9 +10,8 @@
 - [Leecode](https://leetcode.com/edstardo)
 - [Hackerrank](https://www.hackerrank.com/edstardo)
 
-<br />
 ### Context Me
-**Email:** edsarino.tardo@gmail.com | ** Phone: ** +639165970424
+**Email:** edsarino.tardo@gmail.com | **Phone:** +639165970424
 
 <!--
 **edstardo/edstardo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
