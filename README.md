@@ -4,10 +4,10 @@
 **Current:** Philippine Digital Asset Exchage ([PDAX Inc.](https://pdax.ph/)) <br />
 **Ex:** Advanced World Systems ([AWS Inc.](https://www.awsys-i.com/en/home.php))
 
-### Links
+#### Links
 [**LinkedIn**](https://www.linkedin.com/in/edstardo/) | [**Leecode**](https://leetcode.com/edstardo) | [**Hackerrank**](https://www.hackerrank.com/edstardo) | [**Website**](https://edstardo.dev)
 
-### Contact Me
+#### Contact Me
 **Email:** edsarino.tardo@gmail.com | **Phone:** +639165970424
 
 <!--
