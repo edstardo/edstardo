@@ -10,7 +10,7 @@
 - [Leecode](https://leetcode.com/edstardo)
 - [Hackerrank](https://www.hackerrank.com/edstardo)
 
-# Message Me
+### Message Me
 [**Email**](edsarino.tardo@gmail.com) | [**LinkedIn**](https://www.linkedin.com/in/edstardo/)
 
 <!--
