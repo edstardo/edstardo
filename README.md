@@ -10,6 +10,9 @@
 - [Leecode](https://leetcode.com/edstardo)
 - [Hackerrank](https://www.hackerrank.com/edstardo)
 
+# Contact Me
+** [Email](edsarino.tardo@gmail.com) ** 
+
 <!--
 **edstardo/edstardo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
