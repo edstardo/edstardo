@@ -3,9 +3,7 @@
 ### Software Engineer from the Philippines
 **Ex:** 
 - Philippine Digital Asset Exchage ([PDAX Inc.](https://pdax.ph/))
-  - (July 2022 - March 2025)
 - Advanced World Systems ([AWS Inc.](https://www.awsys-i.com/en/home.php))
-  - (July 2015 - July 2022)
 
 -----
 
