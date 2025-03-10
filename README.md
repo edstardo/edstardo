@@ -9,6 +9,9 @@
 #### Links
 [**LinkedIn**](https://www.linkedin.com/in/edstardo/) | [**Leecode**](https://leetcode.com/edstardo) | [**Hackerrank**](https://www.hackerrank.com/edstardo) | [**Website**](https://edstardo.dev)
 
+#### Hobbies
+[**Running**](https://www.strava.com/athletes/edstardo)
+
 -----
 
 #### Contact Me
