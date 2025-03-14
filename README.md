@@ -1,7 +1,7 @@
 ## Hi There 👋
 
 ## I'm **Eds** from Cebu, Philippines.
-**Senior Software Engineer** at [Optum](https://www.optum.com/), a [UnitedHealth Group](https://www.unitedhealthgroup.com/) company
+**Senior Software Engineer** at [Optum Inc.](https://www.optum.com/), a [UnitedHealth Group](https://www.unitedhealthgroup.com/) company
 
 **Ex:** Philippine Digital Asset Exchage ([PDAX Inc.](https://pdax.ph/)) <br />
 **Ex:** Advanced World Systems ([AWS Inc.](https://www.awsys-i.com/en/home.php))
