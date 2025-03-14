@@ -1,6 +1,6 @@
 ## Hi There 👋
 
-## I'm Eds, a Software Engineer from the Cebu, Philippines.
+## I'm Eds Cebu, Philippines.
 **Senior Software Engineer** at [Optum](https://www.optum.com/), a [UnitedHealth Group](https://www.unitedhealthgroup.com/) company
 
 **Ex:** Philippine Digital Asset Exchage ([PDAX Inc.](https://pdax.ph/)) <br />
